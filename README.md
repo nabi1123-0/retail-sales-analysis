@@ -1,9 +1,7 @@
-# retail-sales-analysis
-Retail sales data analysis project using SQL, Python and Power BI to identify trends and KPIs
 # Retail Sales Data Analysis
 
 This project analyzes retail sales data to understand revenue trends,
-top performing product categories, and customer purchasing behavior.
+top-performing product categories, and customer purchasing behavior.
 
 ## Tools Used
 - SQL
