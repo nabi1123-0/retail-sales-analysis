@@ -8,6 +8,7 @@ top-performing product categories, and customer purchasing behavior.
 - Python (Pandas, NumPy)
 - Power BI
 - Excel
+Dataset: Sample retail sales dataset included in the repository
 
 ## Project Steps
 1. Collected and explored retail sales dataset
